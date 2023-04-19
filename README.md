@@ -1,0 +1,2 @@
+# guitarTheoryNotes
+记录一些自己在学习过程中的一些技巧或者笔记
